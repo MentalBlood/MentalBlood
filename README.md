@@ -1,7 +1,7 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=MentalBlood&show_icons=true&hide_border=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MentalBlood&hide_border=true&layout=compact&theme=dark&hide=jupyter%20notebook)
 
+# Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mentalblood&repo=bottomless&theme=radical)](https://github.com/mentalblood/bottomless)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mentalblood&repo=drunk_snail&theme=onedark)](https://github.com/mentalblood/drunk_snail)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mentalblood&repo=logic_schemes_editor&theme=merko)](https://github.com/mentalblood/logic_schemes_editor)
