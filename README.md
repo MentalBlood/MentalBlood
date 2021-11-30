@@ -6,6 +6,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mentalblood&repo=bottomless_ReJSON&theme=nightowl)](https://github.com/mentalblood/bottomless_ReJSON)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mentalblood&repo=logic_schemes_editor&theme=merko)](https://github.com/mentalblood/logic_schemes_editor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mentalblood&repo=logic_schemes_compiler&theme=merko)](https://github.com/mentalblood/logic_schemes_compiler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mentalblood&repo=sharpener&theme=nord)](https://github.com/mentalblood/sharpener)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mentalblood&repo=drunk_snail&theme=onedark)](https://github.com/mentalblood/drunk_snail)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mentalblood&repo=typer&theme=gruvbox_light)](https://github.com/mentalblood/typer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mentalblood&repo=board_game_constructor&theme=panda)](https://github.com/mentalblood/board_game_constructor)
