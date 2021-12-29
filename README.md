@@ -1,7 +1,4 @@
-![My github stats](https://github-readme-stats.vercel.app/api?username=MentalBlood&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MentalBlood&hide_border=true&layout=compact&theme=dark&hide=jupyter%20notebook)
-
-# Projects
+# Public projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mentalblood&repo=logic_schemes_editor&theme=merko)](https://github.com/mentalblood/logic_schemes_editor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mentalblood&repo=logic_schemes_compiler&theme=merko)](https://github.com/mentalblood/logic_schemes_compiler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mentalblood&repo=sharpener&theme=github_dark)](https://github.com/mentalblood/sharpener)
